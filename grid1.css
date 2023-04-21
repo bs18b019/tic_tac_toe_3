@@ -65,7 +65,7 @@
 .middlecont{
     /* border: 2px solid red; */
     height: max(70vh, 300px);
-    width: max(400px, 80vw);
+    width: max(200px, 80vw);
     margin-left: 10vw;
     margin-right: 10vw;
     display: grid;
@@ -82,7 +82,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: max(50px, 10vh);
+    font-size: max(40px, 10vh);
     cursor: pointer;
     color: black;
 
@@ -100,7 +100,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: max(40px, 7vh);
+    font-size: max(30px, 7vh);
 
 }
 
